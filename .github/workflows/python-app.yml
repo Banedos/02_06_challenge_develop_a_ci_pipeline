@@ -18,7 +18,7 @@ jobs:
 
     runs-on: ubuntu-latest
     permissions:
-      checks: Write
+      checks: write
 
     steps:
     - uses: actions/checkout@v3
